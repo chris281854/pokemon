@@ -18,5 +18,4 @@ jobs:
           run: npm install
         - name: Lint
           run: npm run eslint --init
-        - name: Lint  
-          run: npm run eslint
+   
